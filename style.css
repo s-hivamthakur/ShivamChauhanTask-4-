@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    margin: 10% 25%;
+    width: 50vw;
+    height: 80vh;
+    
+
+}
+
+.container img{
+    display: block;
+    width: 100%;
+    height: 70vh;
+}
+
+.click{
+    width: 100%;
+    height: 10vh;
+    background:linear-gradient(to right,#f5c242,#7ed957);
+    cursor:pointer;
+    font-size: 2vw;
+    color: white;
+
+}
